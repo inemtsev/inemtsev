@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Language Stats](https://raw.githubusercontent.com/inemtsev/github-stats/d6f71e200758535db9e82f4d65de2ba8398da360/generated/languages.svg)
+
+![Profile Stats](https://raw.githubusercontent.com/inemtsev/github-stats/d6f71e200758535db9e82f4d65de2ba8398da360/generated/overview.svg)
+
 <!--
 **inemtsev/inemtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
