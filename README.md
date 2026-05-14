@@ -1,5 +1,5 @@
 ### Hi 👋,
-My name is Ilya and I love learning all things technology
+My name is Ilya and I love learning
 
 
 <!--
